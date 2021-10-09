@@ -1,0 +1,14 @@
+/vendor
+composer.lock
+phpunit.xml
+.phpunit.result.cache
+
+# Ignore PHPStorm config folder
+.idea
+
+# TMP parameter files
+*.log
+*~
+*.swp
+.directory
+.DS_Store*
