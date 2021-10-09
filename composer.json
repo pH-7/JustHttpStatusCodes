@@ -1,0 +1,24 @@
+{
+    "name": "ph-7/just-http-status-codes",
+    "description": "Just all HTTP status codes",
+    "homepage": "https://pierrehenry.be",
+    "type": "library",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "PH7\\JustHttp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pierre-Henry Soria",
+            "email": "hi@ph7.me"
+        }
+    ],
+    "minimum-stability": "stable"
+}
