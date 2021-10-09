@@ -6,9 +6,9 @@
 
 Don't hardcode HTTP status codes. Magic numbers (hard-coded numbers) make your code hard to be read and understood.
 
-When you have all status codes stored in readable constants, it makes the development of your application so easy and enjoyable.
+When you have all status codes are stored in readable constants, it makes the development of your application so easy and enjoyable.
 
-It prevents you using the wrong HTTP status code and save you time and energy when developing an API that involves various HTTP status codes to be sent.
+It prevents you of using the wrong HTTP status code and saves time and energy when developing an API that involves various HTTP status codes to be sent.
 
 ## 🐘 PHP Requirement
 
