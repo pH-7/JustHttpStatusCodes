@@ -1,6 +1,6 @@
+# Just HTTP StatusCodes
 
-
-## Just HTTP Status Codes is a great way to empower your project with clean practice 💫
+### Just HTTP Status Codes is a great way to empower your project with clean practice 💫
 
 ## 📄 Description
 
@@ -10,10 +10,10 @@ When you have all status codes stored in readable constants, it makes the develo
 
 It prevents you using the wrong HTTP status code and save you time and energy when developing an API that involves various HTTP status codes to be sent.
 
-## ⚙️ Requirement
+## 🐘 PHP Requirement
 
 ```
-[PHP 7.1](https://www.php.net/releases/7_1_0.php) or newer.
+[PHP v7.1](https://www.php.net/releases/7_1_0.php) or newer.
 ```
 
 ## 🛠 Installation
@@ -54,7 +54,7 @@ StatusCode::NOT_FOUND; // 404
 
 ## ⚖️ License
 
-**PHP All HTTP Status Codes** is generously distributed under the _[MIT](https://opensource.org/licenses/MIT)_.
+**Just HTTP StatusCodes** is generously distributed under the _[MIT](https://opensource.org/licenses/MIT)_.
 
 <!-- GitHub's Markdown reference links -->
 
