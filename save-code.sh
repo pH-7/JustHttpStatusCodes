@@ -8,7 +8,7 @@ function save-project-to-repo() {
 }
 
 declare readonly gitRemotes=(
-    git remote add origin git@bitbucket.org:pH_7/just-http-status-codes.git
+    git@bitbucket.org:pH_7/just-http-status-codes.git
     git@gitlab.com:pH-7/just-http-status-codes.git
     git@github.com:pH-7/JustHttpStatusCodes.git
 )
