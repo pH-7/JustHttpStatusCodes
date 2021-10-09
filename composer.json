@@ -13,6 +13,7 @@
   ],
   "homepage": "https://pierrehenry.be",
   "type": "library",
+  "license": "MIT",
   "require": {
     "php": ">=7.1.0"
   },
@@ -27,7 +28,9 @@
   "authors": [
     {
       "name": "Pierre-Henry Soria",
-      "email": "hi@ph7.me"
+      "email": "hi@ph7.me",
+      "role": "Principle Developer",
+      "homepage": "https://ph7.me"
     }
   ],
   "minimum-stability": "stable"
