@@ -1,8 +1,14 @@
-# Just HTTP Status Codes is a great way to empower your project with clean practice 💫
+
+
+## Just HTTP Status Codes is a great way to empower your project with clean practice 💫
 
 ## 📄 Description
 
-Don't hardcode HTTP status codes. Magic numbers (hard-coded numbers) make your code hard to be read and understood. When you have all status codes stored in readable constants, it makes the development of your application so easy and prevent you using the wrong HTTP status code.
+Don't hardcode HTTP status codes. Magic numbers (hard-coded numbers) make your code hard to be read and understood.
+
+When you have all status codes stored in readable constants, it makes the development of your application so easy and enjoyable.
+
+It prevents you using the wrong HTTP status code and save you time and energy when developing an API that involves various HTTP status codes to be sent.
 
 ## ⚙️ Requirement
 
