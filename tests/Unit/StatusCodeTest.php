@@ -72,6 +72,7 @@ class HttpCodesTest extends TestCase
             [415, StatusCode::UNSUPPORTED_MEDIA_TYPE],
             [416, StatusCode::REQUESTED_RANGE_NOT_SATISFIABLE],
             [417, StatusCode::EXPECTATION_FAILED],
+            [422, StatusCode::UNPROCESSABLE_ENTITY],
             [429, StatusCode::TOO_MANY_REQUESTS],
 
             // 5xx server errors
