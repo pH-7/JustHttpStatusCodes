@@ -35,7 +35,7 @@ class HttpCodesTest extends TestCase
             [200, StatusCode::OK],
             [201, StatusCode::CREATED],
             [202, StatusCode::ACCEPTED],
-            [203, StatusCode::NONAUTHORITATIVE_INFORMATION],
+            [203, StatusCode::NON_AUTHORITATIVE_INFORMATION],
             [204, StatusCode::NO_CONTENT],
             [205, StatusCode::RESET_CONTENT],
             [206, StatusCode::PARTIAL_CONTENT],

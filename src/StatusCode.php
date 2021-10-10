@@ -26,7 +26,7 @@ final class StatusCode
     public const OK = 200;
     public const CREATED = 201;
     public const ACCEPTED = 202;
-    public const NONAUTHORITATIVE_INFORMATION = 203;
+    public const NON_AUTHORITATIVE_INFORMATION = 203;
     public const NO_CONTENT = 204;
     public const RESET_CONTENT = 205;
     public const PARTIAL_CONTENT = 206;
