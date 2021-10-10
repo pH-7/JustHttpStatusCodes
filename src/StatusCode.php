@@ -67,6 +67,7 @@ final class StatusCode
     public const UNSUPPORTED_MEDIA_TYPE = 415;
     public const REQUESTED_RANGE_NOT_SATISFIABLE = 416;
     public const EXPECTATION_FAILED = 417;
+    public const UNPROCESSABLE_ENTITY = 422;
     public const TOO_MANY_REQUESTS = 429;
 
     /**
