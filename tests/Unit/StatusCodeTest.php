@@ -50,7 +50,6 @@ class HttpCodesTest extends TestCase
             [303, StatusCode::SEE_OTHER],
             [304, StatusCode::NOT_MODIFIED],
             [305, StatusCode::USE_PROXY],
-            [306, StatusCode::UNUSED],
             [307, StatusCode::TEMPORARY_REDIRECT],
             [308, StatusCode::PERMANENT_REDIRECT],
 
