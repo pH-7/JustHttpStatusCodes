@@ -11,7 +11,9 @@
     "constants",
     "http",
     "code",
-    "magic number"
+    "magic number",
+    "all status codes",
+    "all HTTP status codes"
   ],
   "homepage": "https://pierrehenry.be",
   "type": "library",
