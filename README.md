@@ -41,7 +41,11 @@ use PH7\JustHttp\StatusCode;
 
 StatusCode::OK; // This is 200
 
+StatusCode::CREATED; // 201 code
+
 StatusCode::NOT_FOUND; // 404
+
+StatusCode::INTERNAL_SERVER_ERROR; // 500
 ```
 
 ## 😋 Who cooked it?
