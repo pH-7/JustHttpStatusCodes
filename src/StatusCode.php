@@ -45,6 +45,7 @@ final class StatusCode
     public const USE_PROXY = 305;
     public const UNUSED = 306;
     public const TEMPORARY_REDIRECT = 307;
+    public const PERMANENT_REDIRECT = 308;
 
     /**
      * Client Error 4xx
