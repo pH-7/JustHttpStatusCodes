@@ -68,11 +68,19 @@ class HttpCodesTest extends TestCase
             [411, StatusCode::LENGTH_REQUIRED],
             [412, StatusCode::PRECONDITION_FAILED],
             [413, StatusCode::REQUEST_ENTITY_TOO_LARGE],
-            [414, StatusCode::REQUEST_URI_TOO_LONG],
+            [414, StatusCode::URI_TOO_LONG],
             [415, StatusCode::UNSUPPORTED_MEDIA_TYPE],
             [416, StatusCode::REQUESTED_RANGE_NOT_SATISFIABLE],
             [417, StatusCode::EXPECTATION_FAILED],
+            [422, StatusCode::UNPROCESSABLE_ENTITY],
+            [423, StatusCode::LOCKED],
+            [424, StatusCode::FAILED_DEPENDENCY],
+            [425, StatusCode::TOO_EARLY],
+            [426, StatusCode::UPGRADE_REQUIRED],
+            [428, StatusCode::PRECONDITION_REQUIRED],
             [429, StatusCode::TOO_MANY_REQUESTS],
+            [431, StatusCode::REQUEST_HEADER_FIELDS_TOO_LARGE],
+            [451, StatusCode::UNAVAILABLE_FOR_LEGAL_REASONS],
 
             // 5xx server errors
             [500, StatusCode::INTERNAL_SERVER_ERROR],
@@ -81,6 +89,12 @@ class HttpCodesTest extends TestCase
             [503, StatusCode::SERVICE_UNAVAILABLE],
             [504, StatusCode::GATEWAY_TIMEOUT],
             [505, StatusCode::VERSION_NOT_SUPPORTED],
+            [506, StatusCode::VARIANT_ALSO_NEGOTIATES],
+            [507, StatusCode::INSUFFICIENT_STORAGE],
+            [508, StatusCode::LOOP_DETECTED],
+            [509, StatusCode::BANDWIDTH_LIMIT_EXCEEDED],
+            [510, StatusCode::NOT_EXTENDED],
+            [511, StatusCode::NETWORK_AUTHENTICATION_REQUIRED]
         ];
     }
 }

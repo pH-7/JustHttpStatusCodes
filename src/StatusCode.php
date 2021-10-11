@@ -63,11 +63,19 @@ final class StatusCode
     public const LENGTH_REQUIRED = 411;
     public const PRECONDITION_FAILED = 412;
     public const REQUEST_ENTITY_TOO_LARGE = 413;
-    public const REQUEST_URI_TOO_LONG = 414;
+    public const URI_TOO_LONG = 414;
     public const UNSUPPORTED_MEDIA_TYPE = 415;
     public const REQUESTED_RANGE_NOT_SATISFIABLE = 416;
     public const EXPECTATION_FAILED = 417;
+    public const UNPROCESSABLE_ENTITY = 422;
+    public const LOCKED = 423;
+    public const FAILED_DEPENDENCY = 424;
+    public const TOO_EARLY = 425;
+    public const UPGRADE_REQUIRED = 426;
+    public const PRECONDITION_REQUIRED = 428;
     public const TOO_MANY_REQUESTS = 429;
+    public const REQUEST_HEADER_FIELDS_TOO_LARGE = 431;
+    public const UNAVAILABLE_FOR_LEGAL_REASONS = 451;
 
     /**
      * Server Error 5xx
@@ -78,4 +86,10 @@ final class StatusCode
     public const SERVICE_UNAVAILABLE = 503;
     public const GATEWAY_TIMEOUT = 504;
     public const VERSION_NOT_SUPPORTED = 505;
+    public const VARIANT_ALSO_NEGOTIATES = 506;
+    public const INSUFFICIENT_STORAGE = 507;
+    public const LOOP_DETECTED = 508;
+    public const BANDWIDTH_LIMIT_EXCEEDED = 509;
+    public const NOT_EXTENDED = 510;
+    public const NETWORK_AUTHENTICATION_REQUIRED = 511;
 }
