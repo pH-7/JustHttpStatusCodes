@@ -62,7 +62,7 @@ final class StatusCode
     public const GONE = 410;
     public const LENGTH_REQUIRED = 411;
     public const PRECONDITION_FAILED = 412;
-    public const REQUEST_ENTITY_TOO_LARGE = 413;
+    public const PAYLOAD_TOO_LARGE = 413;
     public const URI_TOO_LONG = 414;
     public const UNSUPPORTED_MEDIA_TYPE = 415;
     public const REQUESTED_RANGE_NOT_SATISFIABLE = 416;

@@ -67,7 +67,7 @@ class HttpCodesTest extends TestCase
             [410, StatusCode::GONE],
             [411, StatusCode::LENGTH_REQUIRED],
             [412, StatusCode::PRECONDITION_FAILED],
-            [413, StatusCode::REQUEST_ENTITY_TOO_LARGE],
+            [413, StatusCode::PAYLOAD_TOO_LARGE],
             [414, StatusCode::URI_TOO_LONG],
             [415, StatusCode::UNSUPPORTED_MEDIA_TYPE],
             [416, StatusCode::REQUESTED_RANGE_NOT_SATISFIABLE],
