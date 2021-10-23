@@ -12,9 +12,7 @@ It prevents you of using the wrong HTTP status code and saves time and energy wh
 
 ## 🐘 PHP Requirement
 
-```
 [PHP v7.1](https://www.php.net/releases/7_1_0.php) or newer.
-```
 
 ## 🛠 Installation
 
@@ -22,7 +20,7 @@ It prevents you of using the wrong HTTP status code and saves time and energy wh
 composer require ph-7/just-http-status-codes
 ```
 
-Then, if you don't already use composer in your project, include [Composer's autoload](https://getcomposer.org/doc/01-basic-usage.md#autoloading) as below in the index, bootstrap or another file that are included everywhere when you project is running
+If you don't already use composer in your project, include [Composer's autoload](https://getcomposer.org/doc/01-basic-usage.md#autoloading) as below in the main index file, bootstrap or in another file that is always includedg.
 
 ```php
 require __DIR__ . '/vendor/autoload.php';
