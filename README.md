@@ -20,7 +20,7 @@ It prevents you of using the wrong HTTP status code and saves time and energy wh
 composer require ph-7/just-http-status-codes
 ```
 
-If you don't already use composer in your project, include [Composer's autoload](https://getcomposer.org/doc/01-basic-usage.md#autoloading) as below in the main index file, bootstrap or in another file that is always included.
+If you don't already use composer in your project, include [Composer's autoload](https://getcomposer.org/doc/01-basic-usage.md#autoloading) as below in the main index file, bootstrap or in another file that is always included in all pages.
 
 ```php
 require __DIR__ . '/vendor/autoload.php';
