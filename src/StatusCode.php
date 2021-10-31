@@ -15,7 +15,7 @@ final class StatusCode
     /**
      * Informational 1xx
      */
-    public const H_CONTINUE = 100; // `CONTINUE` is a reserved keyword
+    public const CONTINUING = 100; // `CONTINUE` is a reserved keyword
     public const SWITCHING_PROTOCOLS = 101;
     public const PROCESSING = 102;
     public const EARLY_HINTS = 103;

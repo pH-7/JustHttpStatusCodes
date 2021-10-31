@@ -26,7 +26,7 @@ class HttpCodesTest extends TestCase
     {
         return [
             // 1xx informational response
-            [100, StatusCode::H_CONTINUE],
+            [100, StatusCode::CONTINUING],
             [101, StatusCode::SWITCHING_PROTOCOLS],
             [102, StatusCode::PROCESSING],
             [103, StatusCode::EARLY_HINTS],
