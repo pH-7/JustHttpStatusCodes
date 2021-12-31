@@ -37,5 +37,8 @@
       "homepage": "https://ph7.me"
     }
   ],
+  "scripts": {
+    "test": "vendor/bin/phpunit"
+  },
   "minimum-stability": "stable"
 }
