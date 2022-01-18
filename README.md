@@ -2,7 +2,11 @@
 
 ### Just HTTP Status Codes is a great way to empower your project with clean practice 💫
 
-## 📄 Description
+## 📄 Overview
+
+**Simplest. Clean. Efficient.** Just what your project needs 🧹
+
+![PHP HTTP Status Codes constants](snippet-http-status-codes.png)
 
 Don't hardcode HTTP status codes. Magic numbers (hard-coded numbers) make your code hard to be read and understood.
 
