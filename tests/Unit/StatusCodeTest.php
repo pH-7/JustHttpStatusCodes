@@ -7,21 +7,13 @@
 
 declare(strict_types=1);
 
-namespace PH7\JustHttp\Test\Unit;
+namespace PH7\JustHttp\Tests\Unit;
 
 use PH7\JustHttp\StatusCode;
 use PHPUnit\Framework\TestCase;
 
-class HttpCodesTest extends TestCase
+final class HttpCodesTest extends TestCase
 {
-    /**
-     * @dataProvider statusCodesProvider
-     */
-    public function testCorrectStatusCodes(int $expectedCode, int $actualCode): void
-    {
-        $this->assertSame($expectedCode, $actualCode);
-    }
-
     public function statusCodesProvider(): array
     {
         return [
@@ -96,5 +88,13 @@ class HttpCodesTest extends TestCase
             [510, StatusCode::NOT_EXTENDED],
             [511, StatusCode::NETWORK_AUTHENTICATION_REQUIRED]
         ];
+    }
+    
+    /**
+     * @dataProvider statusCodesProvider
+     */
+    public function testCorrectStatusCodes(int $expectedCode, int $actualCode): void
+    {
+        $this->assertSame($expectedCode, $actualCode);
     }
 }
