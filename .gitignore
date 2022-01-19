@@ -4,7 +4,7 @@ phpunit.xml
 .phpunit.result.cache
 
 # Ignore PHPStorm config folder
-.idea
+/.idea
 
 # TMP parameter files
 *.log
