@@ -1,12 +1,15 @@
+# Dependencies
 /vendor
 composer.lock
+
+# Tests
 phpunit.xml
 .phpunit.result.cache
 
-# Ignore PHPStorm config folder
+# IDE - PHPStorm
 /.idea
 
-# TMP parameter files
+# TMP files
 *.log
 *~
 *.swp
