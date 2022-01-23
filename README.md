@@ -6,7 +6,7 @@
 
 **Simplest. Clean. Efficient.** Just what your project needs 🧹
 
-![PHP HTTP Status Codes constants](snippet-http-status-codes.png)
+![PHP HTTP Status Codes constants](php-http-status-codes.png)
 
 Don't hardcode HTTP status codes. Magic numbers (hard-coded numbers) make your code hard to be read and understood.
 
