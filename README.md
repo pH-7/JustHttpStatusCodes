@@ -58,6 +58,10 @@ StatusCode::INTERNAL_SERVER_ERROR; // 500
 
 **[Pierre-Henry Soria](https://ph7.me)**, a highly passionate, zen &amp; pragmatic software engineer 😊
 
+️Would like to help? **[Offer me a coffee](https://ko-fi.com/phenry)** and boost the software development at the same time! 💪
+
+[![Ko Fi - Offer Me A Coffee](media/kofi-logo.png)](https://ko-fi.com/phenry)
+
 ## ⚖️ License
 
 **Just HTTP StatusCodes** is generously distributed under the _[MIT](https://opensource.org/licenses/MIT)_.
