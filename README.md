@@ -4,6 +4,8 @@
 
 ## 📄 Overview
 
+[![Ko Fi - Offer Me A Coffee](media/kofi-logo.png)](https://ko-fi.com/phenry)
+
 **Simplest. Clean. Efficient.** Just what your project needs 🧹
 
 Don't hardcode HTTP status codes. Magic numbers (hard-coded numbers) make your code hard to be read and understood.
@@ -14,9 +16,11 @@ It prevents you of using the wrong HTTP status code and saves time and energy wh
 
 ![PHP HTTP Status Codes constants](php-http-status-codes.png)
 
+
 ## 🐘 PHP Requirement
 
 [PHP v7.3](https://www.php.net/releases/7_3_0.php) or newer.
+
 
 ## 🛠 Installation
 
@@ -50,6 +54,7 @@ StatusCode::NOT_FOUND; // 404
 StatusCode::INTERNAL_SERVER_ERROR; // 500
 ```
 
+
 ## 😋 Who cooked it?
 
 [![Pierre-Henry Soria](https://s.gravatar.com/avatar/a210fe61253c43c869d71eaed0e90149?s=200)](https://ph7.me 'Pierre-Henry Soria personal website')
@@ -60,7 +65,6 @@ StatusCode::INTERNAL_SERVER_ERROR; // 500
 
 ️Would like to help? **[Offer me a coffee](https://ko-fi.com/phenry)** and boost the software development at the same time! 💪
 
-[![Ko Fi - Offer Me A Coffee](media/kofi-logo.png)](https://ko-fi.com/phenry)
 
 ## ⚖️ License
 
