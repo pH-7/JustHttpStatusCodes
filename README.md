@@ -66,7 +66,7 @@ StatusCode::INTERNAL_SERVER_ERROR; // 500
 ️☕️ Are you enjoying it? **[Offer me a coffee](https://ko-fi.com/phenry)** and boost the software development at the same time! 💪
 
 
-## Me building it! 🔥
+## 💪 Me building it
 
 [![Watch the video][video-thumbnail]](https://www.youtube.com/watch?v=fK9K-UrLHNE)
 
