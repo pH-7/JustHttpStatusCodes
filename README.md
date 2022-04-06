@@ -66,6 +66,13 @@ StatusCode::INTERNAL_SERVER_ERROR; // 500
 ️☕️ Are you enjoying it? **[Offer me a coffee](https://ko-fi.com/phenry)** and boost the software development at the same time! 💪
 
 
+## Me building it! 🔥
+
+[![Watch the video][video-thumbnail]](https://www.youtube.com/watch?v=fK9K-UrLHNE)
+
+👉 **[Click here to watch on YouTube](https://www.youtube.com/watch?v=fK9K-UrLHNE)**
+
+
 ## ⚖️ License
 
 **Just HTTP StatusCodes** is generously distributed under the _[MIT](https://opensource.org/licenses/MIT)_ 🎉 Enjoy!
@@ -74,3 +81,4 @@ StatusCode::INTERNAL_SERVER_ERROR; // 500
 <!-- GitHub's Markdown reference links -->
 [twitter-image]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [github-image]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[video-thumbnail]: https://i1.ytimg.com/vi/fK9K-UrLHNE/sddefault.jpg
