@@ -44,7 +44,7 @@ jobs:
       - name: Validate composer.json and composer.lock
         run: composer validate --strict
 
-      - name: Install dependencies for PHP 7
+      - name: Install dependencies for PHP
         run: composer update --no-interaction --no-progress --no-suggest
 
       - name: Run test suite
