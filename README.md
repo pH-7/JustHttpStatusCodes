@@ -19,7 +19,7 @@ It prevents you of using the wrong HTTP status code and saves time and energy wh
 
 ## 🐘 PHP Requirement
 
-[PHP v7.3](https://www.php.net/releases/7_3_0.php) or newer.
+[PHP v7.3](https://www.php.net/releases/7_3_0.php) or newer 🚀
 
 
 ## 🛠 Installation
