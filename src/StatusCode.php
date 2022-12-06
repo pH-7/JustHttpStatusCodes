@@ -8,7 +8,7 @@
 namespace PH7\JustHttp;
 
 /**
- * All status codes available here: https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+ * @link All status codes - https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
  */
 final class StatusCode
 {
