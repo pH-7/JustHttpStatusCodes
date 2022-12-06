@@ -55,6 +55,13 @@ StatusCode::INTERNAL_SERVER_ERROR; // 500
 ```
 
 
+## 💪 Building this library together 🚀
+
+[![Watch the video][video-thumbnail]](https://www.youtube.com/watch?v=fK9K-UrLHNE)
+
+👉 **[Click here to watch on YouTube](https://www.youtube.com/watch?v=fK9K-UrLHNE)**
+
+
 ## 🧑‍🍳 Who made this...?
 
 [![Pierre-Henry Soria](https://s.gravatar.com/avatar/a210fe61253c43c869d71eaed0e90149?s=200)](https://ph7.me 'Pierre-Henry Soria personal website')
@@ -64,13 +71,6 @@ StatusCode::INTERNAL_SERVER_ERROR; // 500
 ️☕️ Are you enjoying it? **[Offer me a coffee](https://ko-fi.com/phenry)** and boost the software development at the same time! 💪
 
 [![@phenrysay][twitter-image]](https://twitter.com/phenrysay) [![pH-7][github-image]](https://github.com/pH-7)
-
-
-## 💪 Building this library together 🚀
-
-[![Watch the video][video-thumbnail]](https://www.youtube.com/watch?v=fK9K-UrLHNE)
-
-👉 **[Click here to watch on YouTube](https://www.youtube.com/watch?v=fK9K-UrLHNE)**
 
 
 ## ⚖️ License
