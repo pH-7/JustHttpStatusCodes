@@ -66,7 +66,7 @@ StatusCode::INTERNAL_SERVER_ERROR; // 500
 [![@phenrysay][twitter-image]](https://twitter.com/phenrysay) [![pH-7][github-image]](https://github.com/pH-7)
 
 
-## 💪 Me building it
+## 💪 Building this library together 🚀
 
 [![Watch the video][video-thumbnail]](https://www.youtube.com/watch?v=fK9K-UrLHNE)
 
