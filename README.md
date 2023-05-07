@@ -2,6 +2,15 @@
 
 ### Just HTTP Status Codes is a great way to empower your project with clean practice 💫
 
+- [👀 Overview](#-overview)
+- [⚙️ PHP Requirement](#-php-requirement)
+- [🤩 Usage](#-usage)
+- [🧑‍🍳 About](#cook-author)
+- [📺 Watch How I've Built It](#-building-this-library-together-)
+- [✍️ Who I Am](#-who-made-this)
+- [⚖️ License](#-license)
+
+
 ## 📄 Overview
 
 [![Ko Fi - Offer Me A Coffee](media/kofi-logo.png)](https://ko-fi.com/phenry)
