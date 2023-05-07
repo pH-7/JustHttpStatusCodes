@@ -55,7 +55,7 @@ StatusCode::INTERNAL_SERVER_ERROR; // 500
 ```
 
 
-## 💪 Building this library together 🚀
+## 💪 Building this library, together! 🚀
 
 [![Watch the video][video-thumbnail]](https://www.youtube.com/watch?v=fK9K-UrLHNE)
 
