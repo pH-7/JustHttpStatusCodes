@@ -8,7 +8,7 @@
 - [🧑‍🍳 About](#cook-author)
 - [📺 Watch How I've Built It](#-building-this-library-together-)
 - [✍️ Who I Am](#-who-made-this)
-- [⚖️ License](#-license)
+- [⚖️ License](#%EF%B8%8F-license)
 
 
 ## 📄 Overview
