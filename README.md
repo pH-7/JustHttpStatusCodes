@@ -5,7 +5,7 @@
 - [👀 Overview](#-overview)
 - [⚙️ PHP Requirement](#-php-requirement)
 - [🤩 Usage](#-usage)
-- [🧑‍🍳 About](#cook-author)
+- [🧑‍🍳 About](#-who-made-this)
 - [📺 Watch How I've Built It](#-building-this-library-together-)
 - [✍️ Who I Am](#-who-made-this)
 - [⚖️ License](#%EF%B8%8F-license)
