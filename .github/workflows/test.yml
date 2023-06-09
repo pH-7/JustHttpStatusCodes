@@ -45,7 +45,7 @@ jobs:
         run: composer validate --strict
 
       - name: Install dependencies for PHP
-        run: composer update --no-interaction --no-progress --no-suggest
+        run: composer update --no-interaction --no-progress
 
       - name: Run test suite
         run: composer test
