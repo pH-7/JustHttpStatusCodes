@@ -23,7 +23,7 @@ When you have all status codes are stored in readable constants, it makes the de
 
 It prevents you from using the wrong HTTP status code and saves time and energy when developing an API that involves various HTTP status codes to be sent.
 
-![PHP HTTP Status Codes constants](php-http-status-codes.png)
+![PHP HTTP Status Codes constants](media/php-http-status-codes.png)
 
 
 ## 🐘 PHP Requirement
