@@ -1,6 +1,6 @@
 # Just HTTP Status Codes
 
-### Just HTTP Status Codes is a great way to empower your project with clean practice 💫
+### Empowers your projects with elegant clean practices 💫
 
 - [👀 Overview](#-overview)
 - [⚙️ PHP Requirement](#-php-requirement)
@@ -13,9 +13,9 @@
 
 ## 📄 Overview
 
-[![Ko Fi - Offer Me A Coffee](media/kofi-logo.png)](https://ko-fi.com/phenry)
-
 **Simplest. Clean. Efficient.** Just what your project needs 🧹
+
+[![Ko Fi - Offer Me A Coffee](media/kofi-logo.png)](https://ko-fi.com/phenry)
 
 Don't hardcode HTTP status codes. Magic numbers (hard-coded numbers) make your code hard to read and understood.
 
