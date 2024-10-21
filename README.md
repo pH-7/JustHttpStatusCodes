@@ -79,7 +79,7 @@ StatusCode::INTERNAL_SERVER_ERROR; // 500
 
 ️☕️ Are you enjoying it? **[Offer me a coffee](https://ko-fi.com/phenry)** and boost the software development at the same time! 💪
 
-[![@phenrysay][twitter-icon]](https://x.com/phenrysay) [![pH-7][github-icon]](https://github.com/pH-7) [![YouTube Video][youtube-icon]](https://youtu.be/cWBuZ4DXGK4 "YouTube SucceedAI Video")
+[![@phenrysay][twitter-icon]](https://x.com/phenrysay) [![pH-7][github-icon]](https://github.com/pH-7) [![YouTube Video][youtube-icon]](https://www.youtube.com/@pH7Programming "YouTube SucceedAI Video")
 
 
 ## ⚖️ License
