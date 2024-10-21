@@ -79,7 +79,7 @@ StatusCode::INTERNAL_SERVER_ERROR; // 500
 
 ️☕️ Are you enjoying it? **[Offer me a coffee](https://ko-fi.com/phenry)** and boost the software development at the same time! 💪
 
-[![@phenrysay][twitter-image]](https://twitter.com/phenrysay) [![pH-7][github-image]](https://github.com/pH-7)
+[![@phenrysay][twitter-icon]](https://x.com/phenrysay) [![pH-7][github-icon]](https://github.com/pH-7) [![YouTube Video][youtube-icon]](https://youtu.be/cWBuZ4DXGK4 "YouTube SucceedAI Video")
 
 
 ## ⚖️ License
@@ -88,6 +88,7 @@ StatusCode::INTERNAL_SERVER_ERROR; // 500
 
 
 <!-- GitHub's Markdown reference links -->
-[twitter-image]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-[github-image]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[twitter-icon]: https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x
+[github-icon]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[youtube-icon]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 [video-thumbnail]: https://i1.ytimg.com/vi/fK9K-UrLHNE/sddefault.jpg
