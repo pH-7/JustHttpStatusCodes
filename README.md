@@ -77,7 +77,7 @@ StatusCode::INTERNAL_SERVER_ERROR; // 500
 
 **[Pierre-Henry Soria](https://ph7.me)**, a highly passionate, zen &amp; pragmatic software engineer 😊
 
-️☕️ Are you enjoying it? **[Offer me a coffee](https://ko-fi.com/phenry)** and boost the software development at the same time! 💪
+️☕️ Are you enjoying it? **[Offer me a coffee](https://ko-fi.com/phenry)** (what's your favorite coffee? Mine is almond flat white 😋)
 
 [![@phenrysay][twitter-icon]](https://x.com/phenrysay) [![pH-7][github-icon]](https://github.com/pH-7) [![YouTube Tech Videos][youtube-icon]](https://www.youtube.com/@pH7Programming "YouTube Tech Channel")
 
